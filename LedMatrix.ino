@@ -1,7 +1,7 @@
 /*
 Title: LED Matrix Scrolling Display
 Description: Scrolls the letter "J" from right to left repeatedly.
-Date: 2023-06-19
+Updated 2023-05-19
 Author: Jason Sun
 Version 2.0
 */
