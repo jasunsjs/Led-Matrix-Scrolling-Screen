@@ -1,2 +1,3 @@
 # Led-Matrix-Scrolling-Screen
-Scrolls the letter "J" from right to left repeatedly using Arduino and 8x8 Led Matrix
+
+Scrolls the contents on the screen on the 8x8 Led Matrix from right to left repeatedly using Arduino. The letter J is used for demonstration
